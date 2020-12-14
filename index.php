@@ -13,6 +13,7 @@
 		<div class="header__inner">
 			<div class="logo">AgaT</div>
 		</div>
+		3 ппр
 	</div>
 </header>
 
