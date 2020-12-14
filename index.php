@@ -16,10 +16,7 @@
 	</div>
 </header>
 
-<div class="intro">
-	<div class="container">
-		<h1>Добро пожаловать в Beauty Studio AgaT</h1>
-	</div>
+nt
 </div>
 </body>
 
